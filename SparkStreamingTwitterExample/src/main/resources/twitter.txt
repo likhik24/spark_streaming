@@ -1,0 +1,4 @@
+consumerKey yourconsumerkeynumber
+consumerSecret yourconsumersecretnumber
+accessToken youraccesstoken
+accessTokenSecret youraccesstokennumber
